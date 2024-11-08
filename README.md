@@ -1,9 +1,9 @@
 # UI Automation Test
-This repo is for form submission automation test
+This repo is for automation test login to nutacloud
 
 ## Overview
 
-formSubmissionAutomationTest is a project for UI testing of web forms using Playwright. This guide will help you set up Playwright, configure it, and run your tests effectively.
+This is a project for UI testing of web forms using Playwright. This guide will help you set up Playwright, configure it, and run your tests effectively.
 
 ## Prerequisites
 
