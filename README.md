@@ -8,6 +8,7 @@ This is a project for UI testing of web forms using Playwright. This guide will 
 ## Prerequisites
 
 - Node.js (version 21 or lower) to avoid version compatibility issues
+- Fill credential account in tests/resources/data.json
 
 ## Installation
 
